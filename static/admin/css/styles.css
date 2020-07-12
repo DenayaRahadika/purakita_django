@@ -1,0 +1,83 @@
+#welcome {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.main-message {
+  padding: 50px;
+  background-color: #99675d;
+}
+
+.main-h1 {
+  font-size: 150%;
+}
+
+#pura-1 {
+  margin-bottom: 50px;
+}
+
+.pura {
+}
+
+.pura-snapshot {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pura-snapshot::-webkit-scrollbar {
+  display: none;
+}
+
+.pura-snapshot img {
+  height: 200px;
+  width: 150px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+
+#tabs {
+  margin-bottom: 50px;
+}
+
+.tab-container {
+  border-left: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+  border-right: 1px solid #d8d8d8;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#dana-punia {
+  margin-bottom: 50px;
+}
+
+.dana-punia-content {
+  padding: 50px;
+}
+
+.total-punia {
+  padding: 10px 25px;
+  border: 2px solid white;
+  display: inline-block;
+}
+
+#donors {
+  margin-bottom: 50px;
+}
+
+.donors-content {
+  display: block;
+  height: 400px;
+}
+
+#footer {
+}
+
+.footer-content {
+  padding: 25px;
+  background-color: #99675d;
+}
